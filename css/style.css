@@ -737,8 +737,8 @@ ul.team_icons_agile li a:hover {
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    max-width: 300px;
-    height: 400px;
+    max-width: 250px;
+    height: 300px;
     margin-bottom: 10px;
 }
 
